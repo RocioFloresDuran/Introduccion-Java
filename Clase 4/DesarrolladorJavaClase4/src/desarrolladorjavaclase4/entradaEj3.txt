@@ -1,0 +1,4 @@
+por pantalla solo indica
+si termino o no correctamente
+los resultados deben estar
+en el archivo de salida

@@ -1,0 +1,3 @@
+a,1,40,jabón en polvo
+b,3,10,esponjas
+c,2,100,chocolates
